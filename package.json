@@ -3,13 +3,13 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
     "build": "ng build",
+    "start": "ng serve",
     "test": "ng test"
   },
   "engines": {
-  "node": ">=20.19.0",
-  "npm": ">=8.0.0"
+    "node": ">=20.0.0",
+    "npm": ">=8.0.0"
   }
   "prettier": {
     "printWidth": 100,
